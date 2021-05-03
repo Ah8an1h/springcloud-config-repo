@@ -6,5 +6,5 @@ eureka:
     service-url:
       defaultZone: http://localhost:1100/eureka/
 server:
-  port: 8001
+  port: 8002
 message: springcloud
